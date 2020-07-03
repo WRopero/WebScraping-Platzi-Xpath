@@ -1,2 +1,2 @@
 # WebScraping-Platzi-Xpath
-Curso de WebSacraping con python y Xpath en  @Platzi
+Curso de WebScraping con python y Xpath en  @Platzi
